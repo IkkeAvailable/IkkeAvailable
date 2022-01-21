@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IkkeAvailable
 - 👀 I’m interested in ... Programming, Music, Gaming and basketball
-- 🌱 I’m currently learning ... C#
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... C#, Lua and Java
+- 💞️ I’m looking to collaborate on ... Html scripting
 - 📫 How to reach me ... You dont
 
 <!---
